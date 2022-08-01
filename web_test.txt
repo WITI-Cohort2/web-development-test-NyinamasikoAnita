@@ -1,0 +1,25 @@
+<!--NYINAMASIKO ANITA 2022/DCSE/036/SS-->
+
+
+#1a
+Elements are html tags that start with an opening and closing tag 
+used to specify the html content.
+
+#1b
+Attributes are html tags that add meaning to an html element.eg
+src,href.
+
+#1c
+selectors are css elements which are used to specify a certain group 
+of elements to be formatted or styled.
+
+#1d
+semantic elements are elements which carry meaning of the content they have 
+eg <table>,<form>,<article>
+
+#1e
+web accesibility is a way of designing a web page to be accessed by all users
+eg the visually impaired and mobility disabled.
+
+#1f
+A web server is a page which allows all web files to be stored and displayed for users.
